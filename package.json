@@ -1,0 +1,13 @@
+{
+  "name": "tehzeeb-bakers-project-2",
+  "version": "2.0.0",
+  "description": "Tehzeeb Bakers full-stack project with Express and SQLite database",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "sqlite3": "^5.1.7"
+  }
+}
